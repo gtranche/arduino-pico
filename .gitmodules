@@ -52,3 +52,6 @@
 [submodule "libraries/MIDIUSB"]
 	path = libraries/MIDIUSB
 	url = https://github.com/earlephilhower/MIDIUSB.git
+[submodule "libraries/Adafruit_TinyUSB_Arduino"]
+	path = libraries/Adafruit_TinyUSB_Arduino
+	url = https://github.com/gtranche/Adafruit_TinyUSB_Arduino.git
